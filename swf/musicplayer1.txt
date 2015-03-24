@@ -1,0 +1,1 @@
+http://cloud.189.cn/source/js/libs/player/audioplayer.swf?soundFile=http://musicdata.baidu.com/data2/music/121294677/121294677.mp3&titles=Îá°®ÆÆ½â»¶Ó­Äã£¡&autostart=yes&loop=yes

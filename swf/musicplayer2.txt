@@ -1,0 +1,1 @@
+[flash=314,53]http://bbs.kukupig.com/static/image/common/player.swf?soundFile=&loop=yes&autostart=yes[/flash]
